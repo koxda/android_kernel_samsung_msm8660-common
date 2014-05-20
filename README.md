@@ -1,2 +1,2 @@
-android_kernel_samsung_msm8660-common
+android_kernel_samsung_msm8660- !
 =====================================
